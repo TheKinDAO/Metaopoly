@@ -1,8 +1,8 @@
 [package]
-name = "rust-template"
+name = "Metaopoly"
 version = "0.1.0"
-authors = ["Near Inc <hello@near.org>"]
-edition = "2018"
+authors = ["Future Productions"]
+edition = "2022"
 
 [lib]
 crate-type = ["cdylib"]
