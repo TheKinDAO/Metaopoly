@@ -1,4 +1,4 @@
-`If a Player fails to pay Rent, they lose.`
+`If a Player fails to pay Rent, they die.`
 
 ## Getting started
 
