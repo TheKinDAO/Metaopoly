@@ -2,7 +2,7 @@
 
 jk, there is another way.
 
-This is part of the ideation of what has now become TheKinDAO.github.io/ChangeMaker
+This is part of the ideation of what has now become https://TheKinDAO.github.io/ChangeMaker
 
 The origianl design document is at https://docs.google.com/document/d/1l1az5tDBI_q7D7d-_jS7s6P3Aq94pIklfuX4Eb28S7w
 
