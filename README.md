@@ -1,11 +1,12 @@
-`If a Player fails to pay Rent, they die.`
+    Pay RENT or die!
 
-## Getting started
+jk, there is another way.
 
-Design document: https://docs.google.com/document/d/1l1az5tDBI_q7D7d-_jS7s6P3Aq94pIklfuX4Eb28S7w
+This is part of the ideation of what has now become TheKinDAO.github.io/ChangeMaker
 
-## Contract
-./src/lib.rs
+The origianl design document is at https://docs.google.com/document/d/1l1az5tDBI_q7D7d-_jS7s6P3Aq94pIklfuX4Eb28S7w
+
+The contract at ./src/lib.rs is based on a NEAR example.
 
 ## Install
 ```sh
@@ -14,6 +15,3 @@ Design document: https://docs.google.com/document/d/1l1az5tDBI_q7D7d-_jS7s6P3Aq9
     ./build.sh
     ./deploy.sh
 ```
-
-## Credits
-Based on the Near example.
